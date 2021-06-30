@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm <a href="www.linkedin.com/in/mark-smith-0">Mark</a>, a full-stack web developer!
 
 ### Languages and Tools that I use most
-### ![image](https://user-images.githubusercontent.com/82676841/124024192-de349880-d9bc-11eb-9192-5a9e03c1f3e6.png) ![image](https://user-images.githubusercontent.com/82676841/124024246-f0aed200-d9bc-11eb-8e7b-809ada9521df.png)
+### ![image](https://user-images.githubusercontent.com/82676841/124024192-de349880-d9bc-11eb-9192-5a9e03c1f3e6.png) 
+![image width:30px;](https://user-images.githubusercontent.com/82676841/124024246-f0aed200-d9bc-11eb-8e7b-809ada9521df.png)
 
 
 <!--
