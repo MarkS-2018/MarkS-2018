@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages and Tools that I use most</h3>
 <div align="center">
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/82676841/125514244-c115caa3-bc9e-4a8b-ad7d-bd6bbd2d947c.png"                  alt="express" width="115" height="80" /> </a> &nbsp; &nbsp;
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/82676841/125514244-c115caa3-bc9e-4a8b-ad7d-bd6bbd2d947c.png"                  alt="express" width="150" height="80" /> </a> &nbsp; &nbsp;
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"             width="100" height="80"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/82676841/124027030-636d7c80-d9c0-11eb-98dd-24e395bd74d6.png" alt="nodejs"         width="100" height="80"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/82676841/124028733-56ea2380-d9c2-11eb-80f8-46c9c6efe8d5.png"               width="100" height="80"/> </a>
