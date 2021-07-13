@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="www.linkedin.com/in/mark-smith-0">Mark</a>, a full-stack web developer!
+### Hi there 👋 I'm <a href="https://www.linkedin.com/in/mark-smith-0">Mark</a>, a full-stack web developer!
 
 <p>🔭 I’m currently working on phase two of capstone project </p>
 <p>🌱 I’m currently learning to expand my coding knowledge!</p>
