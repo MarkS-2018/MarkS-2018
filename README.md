@@ -4,7 +4,7 @@
 <p>🌱 I’m currently learning to expand my coding knowledge!</p>
 <p>📫 How to reach me: <a href="https://www.linkedin.com/in/mark-smith-0"><img src="https://user-images.githubusercontent.com/82676841/124027868-5735ef00-d9c1-11eb-8f0b-36b1481607d9.png" alt="linkedin" width="50" height="50" align="center"/></a></p>
 <p>👦🏾 he/him</p>
-<p>🖥 Check out <a href="https://www.mark2018profile.web.app">my site!</a>
+<p>🖥 Check out <a href="https://mark2018profile.web.app">my site!</a>
 
 
 <h3 align="center">Languages and Tools that I use most</h3>
